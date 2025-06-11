@@ -27,7 +27,6 @@
 | [🤖 ai-antivirus](https://github.com/avasile96/ml-cybersec) | XGBoost-based malware detection system with explainability & deployment tools |
 | [🔢 dsa-lab](https://github.com/avasile96/dsa-lab) | Cleanly solved LeetCode-style problems with tests and complexity analysis |
 
-> Want to see my recent work? Check pinned repositories below 👇
 
 ---
 
