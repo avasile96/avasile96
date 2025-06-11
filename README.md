@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I’m Alexandru Vasile
 
-<!--
-**avasile96/avasile96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Machine Learning Engineer** | Specializing in AI/ML System Design and Image Processing
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🧠 Currently focusing on **data structures & algorithms** to strengthen core CS foundations.
+- 🤖 Experienced in building **ML pipelines**, **agentic AI systems**, and **computer vision/image analysis** solutions.
+- 💼 Currently working at **Bosch**, using GitLab for production-grade ML workflows and system automation.
+
+---
+
+### 🧰 Tech Stack
+
+`Python` `PyTorch` `Transformers` `LangChain` `FastAPI`  
+`Docker` `GitLab CI/CD` `PyMuPDF` `Pandas` `Scikit-learn`  
+`multiprocessing` `Pydantic` `SQL` 
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| [🤖 ai-antivirus](https://github.com/avasile96/ml-cybersec) | XGBoost-based malware detection system with explainability & deployment tools |
+| [🔢 dsa-lab](https://github.com/avasile96/dsa-lab) | Cleanly solved LeetCode-style problems with tests and complexity analysis |
+
+> Want to see my recent work? Check pinned repositories below 👇
+
+---
+
+### 📫 Reach Me
+
+- ✉️ [vasilealexandrupetru@gmail.com](mailto:vasilealexandrupetru@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/alexandru-vasile-2b5297180)
