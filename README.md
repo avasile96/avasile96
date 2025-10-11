@@ -25,7 +25,7 @@
 | Project | Description |
 |--------|-------------|
 | [ai-antivirus](https://github.com/avasile96/ml-cybersec) | XGBoost-based malware detection system with explainability & deployment tools |
-| [news-to-knowledge](https://github.com/avasile96/news-to-knowledge) | News aggregator, scraper and vector store for usage in automation projects |
+| [news-to-knowledge](https://github.com/avasile96/news-to-knowledge) | News aggregator, scraper with vector store implementation for usage in automation projects |
 
 
 ---
