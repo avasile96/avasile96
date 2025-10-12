@@ -1,12 +1,11 @@
 # Hi, I’m Alexandru Vasile
 
-**Machine Learning Engineer** | Specializing in AI/ML System Design and Image Processing
+**Machine Learning Engineer** | Specializing in AI/ML System Design
 
 ---
 
 ### About Me
 
-- Currently focusing on **data structures & algorithms** to strengthen core CS foundations.
 - Experienced in building **ML pipelines**, **agentic AI systems**, and **computer vision/image analysis** solutions.
 - Currently working at **Bosch**, using GitLab for production-grade ML workflows and system automation.
 
