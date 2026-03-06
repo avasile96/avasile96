@@ -23,7 +23,7 @@
 
 | Project | Description |
 |--------|-------------|
-| [ai-antivirus](https://github.com/avasile96/ml-cybersec) | XGBoost-based malware detection system with explainability & deployment tools |
+| [docflow-adk](https://github.com/avasile96/docflow-adk) | Multimodal agentic template-completing app - usecase: patient discharge |
 | [press-release-rag](https://github.com/avasile96/press_release_rag) | A Retrieval-Augmented Generation (RAG) system for querying press releases
 
 
