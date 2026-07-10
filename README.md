@@ -1,6 +1,6 @@
 # Hi, I’m Alexandru Vasile
 
-**Machine Learning Engineer** | Specializing in AI/ML System Design
+**Senior Engineer** | Specializing in AI/ML System Design
 
 ---
 
