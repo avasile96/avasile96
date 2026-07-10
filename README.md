@@ -7,7 +7,7 @@
 ### About Me
 
 - Experienced in building **ML pipelines**, **agentic AI systems**, and **computer vision/image analysis** solutions.
-- Fields I've successfully deployed AI in: medicine, telecomunications, generative art, finance, material science, physics, robotics
+- Fields I've successfully deployed AI in: medicine, telecomunications, generative art, finance, material science, physics, robotics, automotive
 
 ---
 
