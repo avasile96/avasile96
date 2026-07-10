@@ -7,7 +7,6 @@
 ### About Me
 
 - Experienced in building **ML pipelines**, **agentic AI systems**, and **computer vision/image analysis** solutions.
-- Currently working at **Bosch**, using GitLab for production-grade ML workflows and system automation.
 
 ---
 
@@ -15,7 +14,7 @@
 
 `Python` `PyTorch` `Transformers` `LangChain` `FastAPI`  
 `Docker` `GitLab CI/CD` `PyMuPDF` `Pandas` `Scikit-learn`  
-`multiprocessing` `Pydantic` `SQL` 
+`multiprocessing` `Pydantic` `SQL` `Claude` `OpenAI` `Google ADK` 
 
 ---
 
